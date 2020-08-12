@@ -1,5 +1,5 @@
 # 0x02. Unity - Scripting
---
+
 ## General
 - What are scripts in Unity and how are they created and used
 - How to control GameObjects with scripts
